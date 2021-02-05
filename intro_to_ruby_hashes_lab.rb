@@ -2,7 +2,7 @@ def base_hash
   
 
 monopoly={:rairoads=>{}}
-monopoly={}
+monopoly
 end
 
 
